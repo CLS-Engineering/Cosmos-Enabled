@@ -6,12 +6,12 @@
 Cosmos Enabled documentation
 ==========================================
 
-Introduction:
+Introduction
 ==========================================
 
 The documentation is still work in progress. Feel free to :doc:`ask us anything </support/contact>`.
 
-Contents:
+Contents
 ==========================================
 
 .. toctree::

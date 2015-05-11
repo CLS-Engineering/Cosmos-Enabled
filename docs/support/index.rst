@@ -5,3 +5,4 @@ Support
    :maxdepth: 2
 
    contact
+   service-updates
