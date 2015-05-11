@@ -18,7 +18,8 @@ Contents
    :maxdepth: 2
 
    basics/index
-   support/index
+   contact
+   service-updates
 
 Indices and tables
 ==================
