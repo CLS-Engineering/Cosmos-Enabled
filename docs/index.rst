@@ -6,17 +6,22 @@
 Cosmos Enabled documentation!
 ==========================================
 
+Introduction:
+==========================================
+
+The documentation is still work in progress. Feel free to `ask us anything`_.
+
+.. _ask us anything: https://cosmosenabled.com/Support/Home/Contact
+
 Contents:
+==========================================
 
 .. toctree::
    :maxdepth: 2
-
-
 
 Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
 
