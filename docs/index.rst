@@ -9,7 +9,7 @@ Cosmos Enabled documentation
 Introduction
 ==========================================
 
-The documentation is still work in progress. Feel free to :doc:`ask us anything </support/contact>`.
+The documentation is still work in progress. Feel free to :doc:`ask us anything </contact>`.
 
 Contents
 ==========================================

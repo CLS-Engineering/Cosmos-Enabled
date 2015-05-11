@@ -18,7 +18,7 @@ If sign in fails there are three common cases.
 * Your account is blocked by your company policy from using 3rd party services. Consult your company's IT support organization for change or exception to the policy.
 * Login service is experiencing temporary problems
 
-If you fail to sign in :doc:`let us know </support/contact>` and we will do our best to assist you.
+If you fail to sign in :doc:`let us know </contact>` and we will do our best to assist you.
 
 .. _b-label:
 
@@ -32,4 +32,4 @@ If you fail to sign in with your account the chances are you don't have Azure Ac
 
 We don't have Azure Active Directory or our company policy prevents using 3rd party services
 --------------------------------------------------------------------------------------------
-If your organization is not willing to start using Azure Active Directory or your company policy prevents using 3rd party services we may provide you with account(s) to use. :doc:`Contact us </support/contact>` and let us know of your situation and we will do our best to assist you.
+If your organization is not willing to start using Azure Active Directory or your company policy prevents using 3rd party services we may provide you with account(s) to use. :doc:`Contact us </contact>` and let us know of your situation and we will do our best to assist you.
