@@ -9,9 +9,7 @@ Cosmos Enabled documentation!
 Introduction:
 ==========================================
 
-The documentation is still work in progress. Feel free to `ask us anything`_.
-
-.. _ask us anything: https://cosmosenabled.com/Support/Home/Contact
+The documentation is still work in progress. Feel free to :doc:`ask us anything </support/contact>`.
 
 Contents:
 ==========================================
@@ -20,6 +18,7 @@ Contents:
    :maxdepth: 2
 
    basics/index
+   support/index
 
 Indices and tables
 ==================
