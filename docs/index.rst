@@ -9,7 +9,8 @@ Cosmos Enabled documentation
 Introduction
 ==========================================
 
-The documentation is still work in progress. Feel free to :doc:`ask us anything </contact>`.
+.. note::
+   The documentation is still work in progress. Feel free to :doc:`ask us anything </contact>`.
 
 Contents
 ==========================================
@@ -17,7 +18,7 @@ Contents
 .. toctree::
    :maxdepth: 2
 
-   basics/index
+   documentation/index
    contact
    service-updates
 
