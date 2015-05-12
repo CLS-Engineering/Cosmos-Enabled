@@ -3,11 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Cosmos Enabled documentation
+Cosmos Enabled support center
 ==========================================
 
-Introduction
-==========================================
+Welcome to `Cosmos Enabled`_ support center.
+
+.. _Cosmos Enabled: https://cosmosenabled.com/
 
 .. note::
    The documentation is still work in progress. Feel free to :doc:`ask us anything </contact>`.
@@ -26,5 +27,3 @@ Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`search`
-

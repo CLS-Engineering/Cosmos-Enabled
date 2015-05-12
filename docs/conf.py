@@ -47,8 +47,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Cosmos Enabled'
-copyright = u'2015, Cosmos, Keskustekniikka Oy'
-author = u'Cosmos, Keskustekniikka Oy'
+copyright = u'2015, Keskustekniikka Oy'
+author = u'Keskustekniikka Oy'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -232,7 +232,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
   (master_doc, 'CosmosEnabled.tex', u'Cosmos Enabled Documentation',
-   u'Cosmos, Keskustekniikka Oy', 'manual'),
+   u'Keskustekniikka Oy', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
